@@ -1,0 +1,325 @@
+.rectangle {
+    position: absolute;
+width: 1440px;
+height: 900px;
+left: 0px;
+top: 0px;
+
+background: #F8F8F8;
+}
+
+.mor {
+    position: absolute;
+    width: 135px;
+    height: 32px;
+    left: 133px;
+    top: 104px;
+    
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 186%;
+    /* or 45px */
+    
+    
+    /* чер */
+    
+    color: #161515;
+}
+
+.watch {
+    position: absolute;
+width: 877px;
+height: 215px;
+left: 133px;
+top: 189px;
+
+font-family: 'League Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 250px;
+line-height: 230px;
+
+color: #272727;
+}
+
+.text1 {
+    box-sizing: border-box;
+
+position: absolute;
+width: 575px;
+height: 142px;
+left: 135px;
+top: 447px;
+
+font-family: 'League Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 155%;
+/* or 50px */
+
+
+/* чер */
+
+color: #161515;
+
+}
+
+.rectangle1 {
+    position: absolute;
+width: 278px;
+height: 82px;
+left: 135px;
+top: 650px;
+
+/* чер */
+
+background: #161515;
+}
+
+.buy {
+    position: absolute;
+width: 131px;
+height: 21px;
+left: 208px;
+top: 676px;
+
+font-family: 'League Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 28px;
+line-height: 29px;
+
+color: #ffffff;
+
+}
+
+.rectangle6 {
+    position: absolute;
+    width: 88px;
+    height: 38px;
+    left: 441px;
+    top: 663px;
+    
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 186%;
+    /* or 60px */
+    
+    text-align: center;
+    
+    color: #272727;
+}
+
+.watch1 {
+    position: absolute;
+left: 45%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+}
+
+.rectangle2 {
+    position: absolute;
+width: 1440px;
+height: 900px;
+left: 0px;
+top: 0px;
+
+background: #F8F8F8;
+}
+
+.popular {
+    position: absolute;
+width: 171px;
+height: 41px;
+left: 621px;
+top: 943px;
+
+font-family: 'League Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 186%;
+/* or 45px */
+
+text-align: center;
+
+color: #000000;
+}
+
+.models {
+    position: absolute;
+width: 285px;
+height: 62px;
+left: 564px;
+top: 984px;
+
+font-family: 'League Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 72px;
+line-height: 112.5%;
+/* or 81px */
+
+text-align: center;
+
+color: #000000;
+}
+
+.watch2 {
+    position: absolute;
+width: 286px;
+height: 410px;
+left: 582px;
+top: 1240px;
+}
+
+.son {
+    position: absolute;
+width: 285px;
+height: 27px;
+left: 576px;
+top: 1827px;
+
+font-family: 'League Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+}
+
+.text2 {
+    box-sizing: border-box;
+
+position: absolute;
+width: 531px;
+height: 194px;
+left: 454px;
+top: 1871px;
+
+font-family: 'League Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 155%;
+/* or 50px */
+
+text-align: center;
+
+/* чер */
+
+color: #161515;
+}
+
+.watch3 {
+    position: absolute;
+width: 500px;
+height: 500px;
+left: 470px;
+top: 2215px;
+
+}
+
+.sw12 {
+    position: absolute;
+width: 66px;
+height: 29px;
+left: 687px;
+top: 2847px;
+
+font-family: 'League Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 29px;
+text-align: center;
+
+/* чер */
+
+color: #161515;
+}
+
+.text3 {
+    box-sizing: border-box;
+
+position: absolute;
+width: 510px;
+height: 196px;
+left: 465px;
+top: 2893px;
+
+font-family: 'League Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 155%;
+/* or 50px */
+
+text-align: center;
+
+/* чер */
+
+color: #161515;
+}
+
+.product {
+    position: absolute;
+width: 972px;
+height: 50px;
+left: 234px;
+top: 3148px;
+
+font-family: 'League Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 186%;
+/* or 60px */
+
+text-align: center;
+text-transform: capitalize;
+
+/* чер */
+
+color: #161515;
+}
+
+.line {
+    position: absolute;
+width: 178.03px;
+height: 0px;
+left: 631px;
+top: 3207px;
+
+border: 1px solid #707070;
+}
+
+.text4 {
+    position: absolute;
+width: 515px;
+height: 231px;
+left: 464px;
+top: 3256px;
+
+font-family: 'League Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 170%;
+/* or 41px */
+
+text-align: center;
+
+/* чер */
+
+color: #161515;
+}
